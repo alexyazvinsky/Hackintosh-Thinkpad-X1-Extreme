@@ -7,18 +7,17 @@
 
 <img align="right" src="https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/blob/master/IMG/catcritter.png" alt="Critter" width="250">
 
-> Oh! This thing you guys made, excited!  ——— [Zemin Jiang](https://hongjunwu.com/elder/).    
-### Current Release: [10.15.2-V3.7 (FINAL)](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/releases)
+> Oh! This thing you guys made, excited!  ——— The Elder.    
+### Current Release: [10.15-V3.7 LTS](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/releases)
 #### Developer: [@Errrneist](https://www.tonymacx86.com/members/errrneist.1550861/)
-#### Don't forget to star this project if you like it! 
 #### READ THE ENTIRE README.MD BEFORE YOU TAKE ANY ACTION.
-> 英语并非你的首选语言？[中文版文档（非最新）](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/blob/master/README_zh_CN.md)
+> 英语并非你的首选语言？[中文版文档](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/blob/master/README_zh_CN.md)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
-* [20200202] Officially closing this project. Thanks everyone! It's been fun.
-* [20200124] Happy the 4718th Lunar New Year everybody! 
+* [20200523] Re-Translated the Chinese version of the Readme.MD.
+* [20200522] Made 10.15-V3.7 the LTS stable version.
 
 ## Instructions
 ### Please read the `Post-Install` section. 
@@ -233,8 +232,7 @@
 ## Donate
 * Donating to this project is OPTIONAL. 
 * However, if you would like to buy me a coffee, you can do that using QR codes (WechatPay or Venmo).
-<img align="middle" src="https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/blob/master/IMG/wechatpay.jpg" alt="wechatpay" width="300">
-<img align="middle" src="https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/blob/master/IMG/venmo.jpg" alt="venmo" width="300">
+<img align="middle" src="https://github.com/Errrneist/Hackintosh-Razer-Blade-Advanced/blob/master/IMG/donate.png" alt="donate" width="800">
 
 ### Cheers, Errrneist.
 
